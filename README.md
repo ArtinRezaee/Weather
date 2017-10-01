@@ -1,4 +1,4 @@
-# Angular 2 Weather App (Tutorial)
+# Angular 2 Weather App
 
 ## Description
-This repository holds the source code of my YouTube Tutorial series on how to build an Angular 2 Weather App.
+This is a web application made for the purpose of learning angular framework following youtube tutorials
